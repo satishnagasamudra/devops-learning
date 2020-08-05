@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 File created to check stash command
+=======
+Test file created on feature branch
+>>>>>>> a3f152b97f50fdeb3bb917530d28e990589a20f4
